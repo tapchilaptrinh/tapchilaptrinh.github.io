@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://yoursite.com/sitemap.xml
+Sitemap: http://tapchilaptrinh.github.io/sitemap.xml
